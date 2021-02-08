@@ -4,39 +4,29 @@
   box-sizing: border-box;
 }
 
-body {
-  height: 100vh;
-}
-
 .container {
   max-width: 1170px;
   margin: 0 auto;
-/* solo per vedere */
-  height: 200px;
-  border: black solid 1px;
 }
 
 .container {
   background-color: pink;
+  border: black solid 1px;
 }
 
 .row.nested {
   width: 580px;
   float: left;
-  margin-top: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   margin-left: 2px;
 }
 
-
-
-
 [class*="col-"] {
   float: left;
-  height:100%;
-  border: black solid 1px;
-
+  height: 100%;
+  border-left: black solid 1px;
 }
-
 
 .container::after {
   content: "";
@@ -73,19 +63,6 @@ body {
 }
 
 /* COLUMNS ROW FIVE */
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
