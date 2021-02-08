@@ -4,6 +4,6 @@
 }
 
 .row.nested > div {
-  background-color: pink;
+  background-color: red;
   border: white solid 1px;
 }

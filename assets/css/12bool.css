@@ -17,7 +17,7 @@ body {
 }
 
 .container {
-  background-color: lightblue;
+  background-color: pink;
 }
 
 .row.nested {
@@ -25,18 +25,13 @@ body {
   float: left;
   margin-top: 10px;
   margin-left: 2px;
-
-
 }
 
-/* .row {
-  padding: 0 15px;
-} */
+
 
 
 [class*="col-"] {
   float: left;
-
   height:100%;
   border: black solid 1px;
 
