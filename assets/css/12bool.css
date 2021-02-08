@@ -37,6 +37,38 @@
   width: calc(100% / 12);
 }
 
+/* COLUMNS ROW TWO */
+
+.col-12 {
+  width: 100%;
+}
+
+/* COLUMNS ROW THREEE */
+
+.col-8 {
+  width: calc(100% / 12 * 8);
+}
+
+.col-2 {
+  width: calc(100% / 12 * 2);
+}
+
+/* COLUMNS ROW FOUR */
+
+.col-6 {
+  width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
 /* .col-2 {
   width: calc(100% / 11);
 }
