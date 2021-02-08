@@ -2,3 +2,8 @@
   text-align: center;
   line-height: 11em;
 }
+
+.row.nested > div {
+  background-color: pink;
+  border: white solid 1px;
+}
