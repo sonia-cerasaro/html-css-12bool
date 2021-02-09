@@ -29,7 +29,7 @@
 
 .content.red.dark {
   height: 100%;
-  background-color: #b8260d;
+  background-color: #ed0942;
 }
 
 .content.white {
@@ -47,7 +47,7 @@
   background-color: #fabb0c;
 }
 
-.conte.flashyellow {
+.content.flashyellow {
   height: 100%;
   background-color: #ecfa82;
 }
@@ -59,7 +59,7 @@
 
 .content.light.green {
   height: 100%;
-  background-color: lightgreen;
+  background-color: #1ef7c1;
 }
 
 .content.black {
@@ -79,38 +79,30 @@
 
 .content.lightblue{
   height: 100%;
-  background-color: lightblue;
+  background-color: #92fce2;
 }
 
 .content.blue {
   height: 100%;
-  background-color: blue;
+  background-color: #050df7;
 }
 
 .content.violet {
   height: 100%;
-  background-color: violet;
+  background-color: #7d02f7;
 }
 
 .content.brown {
   height: 100%;
-  background-color: brown;
+  background-color: #783810;
 }
 
 .content.light.brown {
   height: 100%;
-  background-color: #a86c51;
+  background-color: #965329;
 }
 
-
-
-
-
-
 /* COLORS */
-
-
-
 
 .col-1 {
   width: calc(100% / 12);
