@@ -8,15 +8,12 @@
   max-width: 1170px;
   height: 60px;
   margin: 0 auto;
-  background-color: green;
-  border: black solid 1px;
 }
 
 
 [class*="col-"] {
   float: left;
   height: 100%;
-  border-left: black solid 1px;
 }
 
 .container::after {
@@ -24,11 +21,95 @@
   display: table;
   clear: both;
 }
+/* COLORS */
+.content.red.light {
+  height: 100%;
+  background-color: #ff6c4f;
+}
 
-.content.red {
+.content.red.dark {
+  height: 100%;
+  background-color: #b8260d;
+}
+
+.content.white {
+  height: 100%;
+  background-color: white;
+}
+
+.content.light.yellow {
+  height: 100%;
+  background-color: #fac882;
+}
+
+.content.yellow {
+  height: 100%;
+  background-color: #fabb0c;
+}
+
+.conte.flashyellow {
+  height: 100%;
+  background-color: #ecfa82;
+}
+
+.content.green {
+  height: 100%;
+  background-color: green;
+}
+
+.content.light.green {
+  height: 100%;
+  background-color: lightgreen;
+}
+
+.content.black {
+  height: 100%;
+  background-color: black;
+}
+
+.content.pink {
+  height: 100%;
+  background-color: #edb398;
+}
+
+.content.orange {
+  height: 100%;
+  background-color: #fa970c;
+}
+
+.content.lightblue{
+  height: 100%;
+  background-color: lightblue;
+}
+
+.content.blue {
   height: 100%;
   background-color: blue;
 }
+
+.content.violet {
+  height: 100%;
+  background-color: violet;
+}
+
+.content.brown {
+  height: 100%;
+  background-color: brown;
+}
+
+.content.light.brown {
+  height: 100%;
+  background-color: #a86c51;
+}
+
+
+
+
+
+
+/* COLORS */
+
+
 
 
 .col-1 {
